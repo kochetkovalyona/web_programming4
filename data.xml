@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plants>
+    <plant id="1">
+        <photo>https://public.blenderkit.com/thumbnails/assets/789177aa1bad4282b12c2c258c14a10d/files/thumbnail_fff712d5-6c49-4d12-9101-32332aed3501.png.256x256_q85_crop-%2C.png</photo>
+        <name>Kecubung Plants</name>
+        <price>195.000</price>
+    </plant>
+    <plant id="2">
+        <photo>https://downloadfree3d.com/wp-content/uploads/2022/05/Plant-decor.jpg</photo>
+        <name>Kurkuma Plants</name>
+        <price>155.000</price>
+    </plant>
+    <plant id="3">
+        <photo>https://downloadfree3d.com/wp-content/uploads/2021/03/Plant-Hojas-G.jpg</photo>
+        <name>Baby Plants</name>
+        <price>200.000</price>
+    </plant>
+</plants>
